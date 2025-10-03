@@ -41,11 +41,3 @@ Weather Dashboard is a simple browser-based weather application. Users can searc
 * **Load Weather Data for Last Searched City on Launch:** The application keeps the last searched city in local storage so that its current weather and forecast data can be re-requested and displayed when the application is launched.
 
 
- 
-Licensed under the [MIT License](https://opensource.org/licenses/MIT).
-
-
-## Contact
-J.K. Royston  
-<jkroyston@gmail.com>  
-[GitHub](https://www.github.com/jxhnkndl)
